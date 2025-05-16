@@ -1,0 +1,20 @@
+Problem Statement 1:
+🔹Overall Sales Performance from 2021 to 2022 is $ 900M
+🔹Total profit generated from 2021 to 2022 is $ 332M
+🔹Total Units sold in diffrenet categories ,from 2021 to 2022 is $ 2M
+🔹Average Price Per Unit from 2021 to 2022 is $ 45
+🔹Total operating Margin is 42%
+
+Problem Statement 2:
+🔹Total sales by month : Peak times are - July, August and December & lowest preformance in - March and February. 
+🔹Total sales by State (Filled Map) : New York is highest selling state , 2nd highest is California
+🔹Total sales by Region (Donut Chart) : 30% of Sales comes from West Region  , 2nd highest is North-East Region. 
+🔹Total sales by Product (Bar Chart) : Men's street Footwere brings the highest sales $ 209M
+🔹Total sales by Retailer (Bar Chart) : Highest selling retailer is West Gear of $243M , 2nd Highest selling retailer is Foot Locker of $220M 
+
+Slicers : 
+Based on Regions : Midwest, Northeast, South, Southeast, West
+Based on Invoice Date : Financial Year 2020 to 2021
+
+
+
